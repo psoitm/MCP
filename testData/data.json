@@ -1,0 +1,15 @@
+{
+    "homePageTitle": "VivTech Guru",
+    "homePageUrl": "/index.html",
+    "headerComponents": [
+        "Home",
+        "About us",
+        "Courses",
+        "Blog",
+        "Practice",
+        "Contact",
+        "Notes"
+    ]
+,
+"allObjects":"/objects"
+}
